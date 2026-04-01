@@ -1,0 +1,9 @@
+python-dotenv
+python-telegram-bot
+langchain
+langchain_google_community
+langchain-google-genai
+langgraph
+google-auth-oauthlib 
+google-api-python-client
+beautifulsoup4
